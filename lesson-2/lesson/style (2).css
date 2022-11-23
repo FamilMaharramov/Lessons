@@ -1,0 +1,22 @@
+p{
+    color: orange;
+    font-size: large;
+    text-align:center;
+    font-weight:900;
+}
+h1{
+    text-align: center;
+}
+p span{
+    color: black;
+}
+button{
+    display: block;
+    border-color: orange;
+    font-weight: bold;
+    font-size: 20px;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
