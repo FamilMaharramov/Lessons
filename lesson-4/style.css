@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+}
+body{
+    background-color: pink;
+}
+.box {
+    width: 28%;
+    display: inline-block;
+    border: 1px solid #eae1e1;
+    margin: 2rem 1rem;
+    background-color: white;
+    border-radius: 2rem;
+}
+.box .textBox{
+    padding: 1rem;
+
+}
+
+.box .textBox .ageGroup span{
+    font-weight: bold;
+}
+.box .textBox .ageGroup .red{
+    color: red;
+}
+.box .textBox .ageGroup .blue{
+    color: blue;
+}
+.box .textBox .ageGroup .yellow{
+    color: yellow;
+}
+
+.box .textBox h2{
+    margin-bottom: 1rem;
+}
+.box .textBox hr{
+    margin: 1rem 0;
+}
+
+.box img {
+    width: 100%;
+}
+
+.box .ageGroup {
+    width: 30%;
+    display: inline-block;
+}
