@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 90%;
+    margin: auto;
+}
+.cook .box{
+    width: 44%;
+    display: inline-block;
+}
+.box .text h1{
+    font-weight: bold;
+    margin-left: 3rem;
+    line-height: 1.8rem;
+    letter-spacing: 2px;
+}
+.box .text p{
+    margin: 3rem;
+    line-height: 1.8rem;
+    letter-spacing: 2px;
+}
+.box .iconA i{
+    font-size: 300%;
+    margin-left: 3rem;
+}
+.box .iconB i{
+    font-size: 300%;
+    margin-left: 3rem;
+    margin-top: 2rem;
+}
+span{
+    line-height: 1.8rem;
+    letter-spacing: 1px;
+}
+
+
+

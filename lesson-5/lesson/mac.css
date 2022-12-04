@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ .container{
+    width: 80%;
+    margin: auto;
+    margin-top: 10rem;
+ }
+h1{
+    text-align: center;
+    margin-top: 10rem;
+}
+.city .box{
+    display: inline-block;
+    width: 16%;
+}
+.city .box .icon i{
+    font-size: 500%;
+    margin: 0 3rem;
+}
+p{
+    font-weight: bold;
+    text-align: center;
+}
