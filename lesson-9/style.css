@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 90%;
+    margin: auto;
+}
+.container h1{
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    margin-top: 2rem;
+}
+.container .parent{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 7rem;
+    margin-left: 5rem;
+}
+.container .parent .box{
+    width: 24%;
+    text-align: justify;
+    background-color: bisque;
+}
+.container .parent .box img{
+    width: 100%;
+}
+.container .parent .box h3{
+    text-align: center;
+}
+.container .parent .box p{
+    padding:0.5rem 1rem;
+    letter-spacing: 2px;
+    color: gray;
+}
+.container .parent .box .price{
+    text-align: center;
+    color: green;
+}
