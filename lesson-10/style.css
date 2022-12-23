@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 90%;
+    margin: auto;
+}
+
+.parent{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 5rem;
+}
+.parent .box1{
+    width: 48.5%;
+    height: 200px; 
+    background-color:black;
+    margin: 1rem 0;
+    padding: 2rem;
+    box-sizing: border-box;
+    color: white;
+}
+.parent .box1 h1{
+    line-height: 3rem;
+
+}
+.parent .box1 p{
+    word-spacing: 5px;
+}
+
+.parent .box{
+    height: 200px; 
+    width: 23%;
+    margin: 1rem 0;
+    background-color:black;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 6rem 3rem;
+    box-sizing: border-box;
+    color: white;
+}
+.box h1{
+    line-height: 2rem;
+}
+body{
+    background-color: gray;
+}
