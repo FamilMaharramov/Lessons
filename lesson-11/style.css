@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 90%;
+    margin: auto;
+}
+.parent{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-top: 10rem;
+}
+.box{
+    width: 25%;
+    background-color: cyan;
+    position: relative;
+    text-align: center;
+    box-sizing: border-box;
+}
+.boxL{
+    width: 25%;
+    height: 4rem;
+    background-color: white;
+    border-radius: 50%;
+    position: absolute;
+    right: 0;
+    left: 0;
+    margin: auto;
+    top: -2rem;
+    border: 1px solid white;
+}
+.box h3{
+    padding-top: 3rem;
+}
+.box p{
+    padding: 1rem 0;
+}
+.boxL i{
+    text-align: center;
+    font-size: xx-large;
+}
