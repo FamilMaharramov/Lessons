@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@1,100&display=swap');
+.write{
+    text-align: center;
+}
+h1{
+    padding-top: 1rem;
+}
+.icon{
+    border: 1px solid orangered;
+    font-size: 2rem;
+    color: orangered;
+    transform: rotate(320deg);
+    border-radius: 6%;
+}
+.icon i{
+    padding: 1rem;
+}
+.letter{
+    margin-left: 1.5rem; 
+}
+.letter p{
+    font-family: 'Barlow', sans-serif;
+}
+.second{
+    display: flex;
+    margin-top: 3rem;
+}
