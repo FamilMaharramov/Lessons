@@ -1,0 +1,141 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+* {
+  font-family: "Roboto", sans-serif;
+}
+
+.mt-1 {
+  margin-top: 1rem;
+}
+
+.formGroup {
+  padding-right: 15px;
+}
+
+.applyPresident {
+  background-color: #F1F1F1;
+  padding-top: 3rem;
+  min-height: 100vh;
+}
+.applyPresident .bordered {
+  border-bottom: 4px solid #5975b0;
+  position: relative;
+}
+.applyPresident .bordered .apply,
+.applyPresident .bordered .letter {
+  position: absolute;
+  color: white;
+  text-transform: uppercase;
+}
+.applyPresident .bordered .apply {
+  line-height: 33px;
+  padding: 0 20px;
+  background-color: #224285;
+  right: 50%;
+  top: -15px;
+}
+.applyPresident .bordered .letter {
+  top: -20px;
+  left: 50%;
+  padding: 12px;
+  background-color: #5975b0;
+}
+.applyPresident .cardApply {
+  background-color: white;
+  width: 80%;
+  margin: auto;
+  margin-top: 4rem;
+  padding: 1rem;
+  color: #224285;
+}
+.applyPresident .cardApply .text h1,
+.applyPresident .cardApply .text p {
+  margin: 1rem 0;
+}
+.applyPresident .cardApply .starRed {
+  color: #e03e2d;
+}
+.applyPresident .cardApply .labelForm {
+  font-size: 18px;
+  margin: 1rem 0;
+  font-weight: bold;
+}
+.applyPresident .cardApply input[type=text],
+.applyPresident .cardApply input[type=tel],
+.applyPresident .cardApply input[type=number],
+.applyPresident .cardApply input[type=email],
+.applyPresident .cardApply select {
+  margin: 1rem 0;
+  display: block;
+  height: 46px;
+  border-radius: 4px;
+  background-color: #fafafa;
+  border: solid 1px #cccccc;
+  color: #224285;
+  font-size: 18px;
+  padding-left: 5px;
+  width: 100%;
+}
+.applyPresident .cardApply input[type=radio] {
+  height: 2rem;
+  width: 2rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  margin-right: 1rem;
+}
+.applyPresident .cardApply .radioDiv {
+  justify-content: flex-start;
+}
+.applyPresident .cardApply .radioDiv label {
+  margin-right: 2rem;
+}
+.applyPresident .cardApply textarea {
+  border-radius: 4px;
+  background-color: #fafafa;
+  border: solid 1px #cccccc;
+  color: #224285;
+  width: 100%;
+}
+.applyPresident .cardApply .btn {
+  text-align: center;
+}
+.applyPresident .cardApply .btn button {
+  margin-top: 2rem;
+  background-color: #224285;
+  border: none;
+  display: inline-block;
+  color: #fff;
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
+  padding: 14px 25px;
+  font-size: 18px;
+  font-weight: bold;
+  cursor: pointer;
+  box-shadow: 8px 10px #7f7f7f;
+}
+
+@media only screen and (max-width: 600px) {
+  .applyPresident .apply {
+    right: 0 !important;
+    left: 0 !important;
+    margin: auto;
+    top: -30px !important;
+    text-align: center;
+    width: 50%;
+  }
+  .applyPresident .letter {
+    top: 4px !important;
+    right: 0 !important;
+    left: 0 !important;
+    margin: auto;
+    width: 60%;
+    text-align: center;
+  }
+  .cardApply {
+    width: 95% !important;
+  }
+  .genderRadio {
+    justify-content: flex-start !important;
+  }
+  .genderRadio label {
+    margin-right: 1rem !important;
+  }
+}/*# sourceMappingURL=style.css.map */
