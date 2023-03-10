@@ -1,0 +1,243 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap");
+.div1 {
+  position: relative;
+  background-size: contain;
+  height: 400px;
+  cursor: pointer;
+  background-image: url("https://preview.colorlib.com/theme/amado/img/bg-img/1.jpg");
+}
+.div1 .line {
+  width: 80px;
+  height: 3px;
+  background-color: #fbb710;
+  position: absolute;
+  top: 10%;
+  left: 10%;
+  margin: auto;
+}
+.div1 .letter {
+  position: absolute;
+  top: 15%;
+  left: 10%;
+  margin: auto;
+}
+.div1 .letter p {
+  font-family: "Roboto", sans-serif;
+  color: darkgray;
+}
+
+.div2 {
+  position: relative;
+  background-image: url("https://preview.colorlib.com/theme/amado/img/bg-img/2.jpg");
+  background-size: contain;
+  height: 500px;
+  cursor: pointer;
+}
+.div2 .line {
+  width: 80px;
+  height: 3px;
+  background-color: #fbb710;
+  position: absolute;
+  top: 10%;
+  left: 10%;
+  margin: auto;
+}
+.div2 .letter {
+  position: absolute;
+  top: 15%;
+  left: 10%;
+  margin: auto;
+}
+.div2 .letter p {
+  font-family: "Roboto", sans-serif;
+  color: darkgray;
+}
+
+.div3 {
+  position: relative;
+  background-image: url("https://preview.colorlib.com/theme/amado/img/bg-img/3.jpg");
+  background-size: contain;
+  height: 400px;
+  cursor: pointer;
+}
+.div3 .line {
+  width: 80px;
+  height: 3px;
+  background-color: #fbb710;
+  position: absolute;
+  top: 10%;
+  left: 10%;
+  margin: auto;
+}
+.div3 .letter {
+  position: absolute;
+  top: 15%;
+  left: 10%;
+  margin: auto;
+}
+.div3 .letter p {
+  font-family: "Roboto", sans-serif;
+  color: darkgray;
+}
+
+.div4 {
+  position: relative;
+  background-image: url("https://preview.colorlib.com/theme/amado/img/bg-img/5.jpg");
+  background-size: contain;
+  height: 400px;
+  cursor: pointer;
+}
+.div4 .line {
+  width: 80px;
+  height: 3px;
+  background-color: #fbb710;
+  position: absolute;
+  top: 10%;
+  left: 10%;
+  margin: auto;
+}
+.div4 .letter {
+  position: absolute;
+  top: 15%;
+  left: 10%;
+  margin: auto;
+}
+.div4 .letter p {
+  font-family: "Roboto", sans-serif;
+  color: darkgray;
+}
+
+.div5 {
+  position: relative;
+  background-image: url("https://preview.colorlib.com/theme/amado/img/bg-img/6.jpg");
+  background-size: contain;
+  height: 350px;
+  cursor: pointer;
+}
+.div5 .line {
+  width: 80px;
+  height: 3px;
+  background-color: #fbb710;
+  position: absolute;
+  top: 10%;
+  left: 10%;
+  margin: auto;
+}
+.div5 .letter {
+  position: absolute;
+  top: 15%;
+  left: 10%;
+  margin: auto;
+}
+.div5 .letter p {
+  font-family: "Roboto", sans-serif;
+  color: darkgray;
+}
+
+.div6 {
+  position: relative;
+  background-image: url("https://preview.colorlib.com/theme/amado/img/bg-img/4.jpg");
+  background-size: contain;
+  height: 400px;
+  cursor: pointer;
+}
+.div6 .line {
+  width: 80px;
+  height: 3px;
+  background-color: #fbb710;
+  position: absolute;
+  top: 10%;
+  left: 10%;
+  margin: auto;
+}
+.div6 .letter {
+  position: absolute;
+  top: 15%;
+  left: 10%;
+  margin: auto;
+}
+.div6 .letter p {
+  font-family: "Roboto", sans-serif;
+  color: darkgray;
+}
+
+.div7 {
+  position: relative;
+  background-image: url("https://preview.colorlib.com/theme/amado/img/bg-img/8.jpg");
+  background-size: contain;
+  height: 350px;
+  cursor: pointer;
+}
+.div7 .line {
+  width: 80px;
+  height: 3px;
+  background-color: #fbb710;
+  position: absolute;
+  top: 10%;
+  left: 10%;
+  margin: auto;
+}
+.div7 .letter {
+  position: absolute;
+  top: 15%;
+  left: 10%;
+  margin: auto;
+}
+.div7 .letter p {
+  font-family: "Roboto", sans-serif;
+  color: darkgray;
+}
+
+.div8 {
+  position: relative;
+  background-image: url("https://preview.colorlib.com/theme/amado/img/bg-img/9.jpg");
+  background-size: contain;
+  height: 350px;
+  cursor: pointer;
+}
+.div8 .line {
+  width: 80px;
+  height: 3px;
+  background-color: #fbb710;
+  position: absolute;
+  top: 10%;
+  left: 10%;
+  margin: auto;
+}
+.div8 .letter {
+  position: absolute;
+  top: 15%;
+  left: 10%;
+  margin: auto;
+}
+.div8 .letter p {
+  font-family: "Roboto", sans-serif;
+  color: darkgray;
+}
+
+.div9 {
+  position: relative;
+  background-image: url("https://preview.colorlib.com/theme/amado/img/bg-img/7.jpg");
+  background-size: contain;
+  height: 350px;
+  cursor: pointer;
+}
+.div9 .line {
+  width: 80px;
+  height: 3px;
+  background-color: #fbb710;
+  position: absolute;
+  top: 10%;
+  left: 10%;
+  margin: auto;
+}
+.div9 .letter {
+  position: absolute;
+  top: 15%;
+  left: 10%;
+  margin: auto;
+}
+.div9 .letter p {
+  font-family: "Roboto", sans-serif;
+  color: darkgray;
+}/*# sourceMappingURL=style.css.map */
